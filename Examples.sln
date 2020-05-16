@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jmespath", "src\Jmespath\Jmespath.csproj", "{8AD3271B-6C92-40ED-834F-FAB8069F544C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlebars_Ex", "Handlebars\Handlebars_Ex.csproj", "{576D5E96-9F49-476D-992C-B03DEE37B41D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Handlebars_Ex", "src\Handlebars\Handlebars_Ex.csproj", "{A9488A26-FA8B-4AF8-9E33-3D8DD607F5B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{8AD3271B-6C92-40ED-834F-FAB8069F544C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AD3271B-6C92-40ED-834F-FAB8069F544C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AD3271B-6C92-40ED-834F-FAB8069F544C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{576D5E96-9F49-476D-992C-B03DEE37B41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{576D5E96-9F49-476D-992C-B03DEE37B41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{576D5E96-9F49-476D-992C-B03DEE37B41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{576D5E96-9F49-476D-992C-B03DEE37B41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9488A26-FA8B-4AF8-9E33-3D8DD607F5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9488A26-FA8B-4AF8-9E33-3D8DD607F5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9488A26-FA8B-4AF8-9E33-3D8DD607F5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9488A26-FA8B-4AF8-9E33-3D8DD607F5B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
