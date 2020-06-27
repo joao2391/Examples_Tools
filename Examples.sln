@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jmespath", "src\Jmespath\Jm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Handlebars_Ex", "src\Handlebars\Handlebars_Ex.csproj", "{A9488A26-FA8B-4AF8-9E33-3D8DD607F5B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polly_Ex", "src\Polly\Polly_Ex.csproj", "{D9839580-DF46-4608-B73D-88583205EA9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A9488A26-FA8B-4AF8-9E33-3D8DD607F5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9488A26-FA8B-4AF8-9E33-3D8DD607F5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9488A26-FA8B-4AF8-9E33-3D8DD607F5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9839580-DF46-4608-B73D-88583205EA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9839580-DF46-4608-B73D-88583205EA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9839580-DF46-4608-B73D-88583205EA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9839580-DF46-4608-B73D-88583205EA9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
